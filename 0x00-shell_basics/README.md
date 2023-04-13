@@ -1,2 +1,3 @@
 #!/bin/bash script tells the terminal that when the script is run it should use bash to execute
-pwd script is used to desplay the current working directory
+pwd script is used to display the current working directory which is the 0x00-shell basics
+ls script is displaying contents of the 1-listit file
