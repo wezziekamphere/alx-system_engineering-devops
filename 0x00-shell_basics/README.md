@@ -4,4 +4,5 @@ ls script is displaying contents of the 1-listit file
 cd script changes the working directory to home directory which is the root
 ls -l script displays contents in long format
 ls -la script displays all contents including hidden files
-ls -na script displays long format contents with user and group ids displayed numerically and is also displays hidden files
+ls -na script displays long format contents with user and group ids displayed numerically and it also displays hidden files
+mkdir script is used to create directory
