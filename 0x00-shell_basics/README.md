@@ -7,3 +7,4 @@ ls -la script displays all contents including hidden files
 ls -na script displays long format contents with user and group ids displayed numerically and it also displays hidden files
 mkdir script is used to create directory
 mv script moves or renames a file or directory
+rm -rf removes the directory and its files by force
