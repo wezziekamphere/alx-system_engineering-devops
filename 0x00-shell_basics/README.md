@@ -2,3 +2,4 @@
 pwd script is used to display the current working directory which is the 0x00-shell basics
 ls script is displaying contents of the 1-listit file
 cd script changes the working directory to home directory which is the root
+ls -l script displays contents in long format
