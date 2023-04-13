@@ -8,3 +8,4 @@ ls -na script displays long format contents with user and group ids displayed nu
 mkdir script is used to create directory
 mv script moves or renames a file or directory
 rm -rf removes the directory and its files by force
+rmdir deletes an empty directory
